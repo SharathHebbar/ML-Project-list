@@ -22,6 +22,7 @@
 20. [Customer-segmentation](https://github.com/SharathHebbar/Customer-segmentation)
 21. [Sonar-Rock-vs-mine-prediction](https://github.com/SharathHebbar/Sonar-Rock-vs-mine-prediction)
 22. [Diabetes-prediction](https://github.com/SharathHebbar/Diabetes-prediction)
+23. [Table-Detection](https://github.com/SharathHebbar/Table-detection-using-Transformers)
 
 # Tutorials/practice
 
