@@ -23,14 +23,27 @@
 21. [Sonar-Rock-vs-mine-prediction](https://github.com/SharathHebbar/Sonar-Rock-vs-mine-prediction)
 22. [Diabetes-prediction](https://github.com/SharathHebbar/Diabetes-prediction)
 23. [Table-Detection](https://github.com/SharathHebbar/Table-detection-using-Transformers)
-24. [Face-Mask-Detection](https://github.com/SharathHebbar/ML-Project-list/tree/master/computer-vision/object-detection/face_mask_detection)
+24. [CNN_Visualization](https://github.com/SharathHebbar/CNN_Visualization)
+25. [Softmax as Intermediate Layer](https://github.com/SharathHebbar/Softmax-as-intermediate-layer-CNN)
+26. [Hparam-tuning](https://github.com/SharathHebbar/Keras_tuner)
+27. [Random-Forest](https://github.com/SharathHebbar/Random-Forest)
+28. [Falcon Fine Tune](https://github.com/SharathHebbar/Falcon-demo-finetune)
 
 # Tutorials/practice
 
 1. [ML](https://github.com/SharathHebbar/ml)
 2. [PyTorch](https://github.com/SharathHebbar/PyTorch-Tutorials)
+3. [Transformers](https://github.com/SharathHebbar/Transformers)
+4. [MLFlow-Tutorials](https://github.com/SharathHebbar/ML-Flow-Tutorials)
+5. [HuggingFace](https://github.com/SharathHebbar/HuggingFace-handson)
+6. [LLM](https://github.com/SharathHebbar/LLM)
+7. [Langchain-Tutorial](https://github.com/SharathHebbar/Langchain-tutorial)
 
 # Articles/Papers
 
 1. [Articles](https://github.com/SharathHebbar/Data-Science-and-ML/tree/main/articles)
 2. [Papers](https://github.com/SharathHebbar/Data-Science-and-ML/tree/main/papers)
+
+# Mega Projects
+
+1. [OSFOSM](https://github.com/SharathHebbar/one-stop-for-open-source-models)
