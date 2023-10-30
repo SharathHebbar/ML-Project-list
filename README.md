@@ -28,6 +28,7 @@
 5. [X-Ray-Detection](https://github.com/SharathHebbar/X-Ray-Detection)
 6. [Pneumonia-detection](https://github.com/SharathHebbar/Pneumonia-detection/tree/master/Pneumonia-detection)
 7. [Image-classification-using-deep-learning](https://github.com/SharathHebbar/Image-classification-using-deep-learning)
+8. [Semantic Segmentation](https://github.com/SharathHebbar/ML-Project-list/tree/master/semantic-segmentation/car-segmentation)
 
 ## NLP
 
