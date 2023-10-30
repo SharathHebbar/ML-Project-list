@@ -1,4 +1,4 @@
-# List of Machine Learning projects
+# List of Machine Learning Projects
 
 ## Classical ML
 
