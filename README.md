@@ -1,4 +1,4 @@
-# List of Machine Learning Projects
+# List of Machine Learning Projects and Tutorials
 
 ## Classical ML
 
@@ -50,6 +50,10 @@
 7. [Encoder-Decoder Model](https://github.com/SharathHebbar/Transformers/blob/main/Encoder-decoder/text2text-generation.ipynb)
 8. [Falcon Fine Tune](https://github.com/SharathHebbar/Falcon-demo-finetune)
 9. [Table-Detection](https://github.com/SharathHebbar/Table-detection-using-Transformers)
+10. [Tokenizer](https://github.com/SharathHebbar/Transformers/blob/main/Basics/1.%20Tokenizer.ipynb)
+11. [Word Embedding](https://github.com/SharathHebbar/Transformers/blob/main/Basics/2.%20Word_Embeddings.ipynb)
+12. [Semantic Search](https://github.com/SharathHebbar/Transformers/blob/main/Basics/3.%20Semantic_Search_Index.ipynb)
+13. [Tokenization Positional_Encoding Self Attention](https://github.com/SharathHebbar/Transformers/blob/main/Basics/4.%20Tokenization%2C%20Positional_Encoding%20and%20self_attention.ipynb)
 
 ## Generative AI / LLMs
 
