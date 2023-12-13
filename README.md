@@ -110,3 +110,16 @@
 2. [SynthEmbed](https://github.com/SharathHebbar/SynthEmbed)
 3. [The Algorithmic Alchemist](https://github.com/SharathHebbar/The-Algorithmic-Alchemist)
 4. [SkillSync](https://github.com/SharathHebbar/Similarity-Prediction/tree/master/web-app/skillsync)
+
+# Streamlit
+1. [StreamLit Tutorials](https://github.com/SharathHebbar/StreamLit-Tutorials)
+
+# Django
+1. [PulseSync](https://github.com/SharathHebbar/PulseSync)
+2. [Taskly](https://github.com/SharathHebbar/TODO)
+
+# React
+1. [Nike](https://github.com/SharathHebbar/Nike-landing-page)
+
+# CSS
+1. [TailwindCSS Tutorial](https://github.com/SharathHebbar/Tailwind-CSS-Tutorial)
