@@ -77,7 +77,9 @@
 14. [Sentiment Analysis using Tensorflow and Transformers](https://github.com/SharathHebbar/HuggingFace-handson/tree/main/Sentiment%20Analysis)
 15. [Chatbot](https://github.com/SharathHebbar/ChatBot-FOSS)
 16. [Langchain-Tutorial](https://github.com/SharathHebbar/Langchain-tutorial)
-17. [AI Generated Text](https://github.com/SharathHebbar/AI-Generated-Text)
+17. [Similarity Prediction](https://github.com/SharathHebbar/Similarity-Prediction)
+18. [AI Generated Text](https://github.com/SharathHebbar/AI-Generated-Text)
+
 
 # MLOps
 
