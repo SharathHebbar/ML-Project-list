@@ -1,16 +1,4 @@
-# Natural Language Processing
-
-## NLP using Machine Learning Based Models
-
-1. [Restaurant-Review-Prediction](https://github.com/SharathHebbar/ML-Project-list/tree/master/kaggle-projects/Restaurant-Reviews)
-
-## NLP using Deep Learning Based Models
-
-## NLP using SpaCy
-
-## NLP using Stats Models
-
-## NLP using Transformers and Generative AI (Large Language Models)
+# NLP using Transformers and Generative AI (Large Language Models)
 
 1. [Extractive QnA with BERT](https://github.com/SharathHebbar/Transformers/blob/main/Basics/5_Extractive_QnA_using_BERT.ipynb)
 2. [Instruction following using GPT](https://github.com/SharathHebbar/Transformers/blob/main/Basics/6_Instruction_following_using_GPT.ipynb)
