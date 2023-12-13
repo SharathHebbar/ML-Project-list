@@ -1,0 +1,5 @@
+spacy==3.5.4
+scikit-learn 
+pandas 
+numpy
+matplotlib
