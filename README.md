@@ -99,6 +99,8 @@
 16. [Langchain-Tutorial](https://github.com/SharathHebbar/Langchain-tutorial)
 17. [Similarity Prediction](https://github.com/SharathHebbar/Similarity-Prediction)
 18. [AI Generated Text](https://github.com/SharathHebbar/AI-Generated-Text)
+19. [Open Source LLM using StreamLit](https://github.com/SharathHebbar/HuggingFace-handson/tree/main/Open-llm)
+20. [ChatGPT2](https://github.com/SharathHebbar/HuggingFace-handson/tree/main/chat_gpt2)
 
 
 # MLOps
@@ -112,6 +114,10 @@
 
 # Recommendation System
 
+# Other Generative AI Models (Closed Sources)
+1. [Gemini](https://github.com/SharathHebbar/Google-Generative-AI-Models/tree/main/Gemini
+2. [PaLM](https://github.com/SharathHebbar/Google-Generative-AI-Models/tree/main/PaLM)
+
 # Concepts
 
 1. [ML](https://github.com/SharathHebbar/ml)
@@ -120,6 +126,7 @@
 4. [HuggingFace](https://github.com/SharathHebbar/HuggingFace-handson)
 5. [LLM](https://github.com/SharathHebbar/LLM)
 6. [Customer Analytics](https://github.com/SharathHebbar/Customer-Analytics)
+7. [Google Generative AI Models](https://github.com/SharathHebbar/Google-Generative-AI-Models)
 
 # Articles/Papers
 
