@@ -115,7 +115,7 @@
 # Recommendation System
 
 # Other Generative AI Models (Closed Sources)
-1. [Gemini](https://github.com/SharathHebbar/Google-Generative-AI-Models/tree/main/Gemini
+1. [Gemini](https://github.com/SharathHebbar/Google-Generative-AI-Models/tree/main/Gemini)
 2. [PaLM](https://github.com/SharathHebbar/Google-Generative-AI-Models/tree/main/PaLM)
 
 # Concepts
