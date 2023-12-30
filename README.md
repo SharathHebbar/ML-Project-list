@@ -101,6 +101,7 @@
 18. [AI Generated Text](https://github.com/SharathHebbar/AI-Generated-Text)
 19. [Open Source LLM using StreamLit](https://github.com/SharathHebbar/HuggingFace-handson/tree/main/Open-llm)
 20. [ChatGPT2](https://github.com/SharathHebbar/HuggingFace-handson/tree/main/chat_gpt2)
+21. [Convo Bot GPT2](https://github.com/SharathHebbar/HuggingFace-handson/tree/main/convo-bot-gpt2)
 
 
 # MLOps
@@ -132,6 +133,8 @@
 
 1. [Articles](https://github.com/SharathHebbar/Data-Science-and-ML/tree/main/articles)
 2. [Papers](https://github.com/SharathHebbar/Data-Science-and-ML/tree/main/papers)
+3. [Medium](https://medium.com/@sharathhebbar24)
+4. [Substack](https://sharathshebbar.substack.com/)
 
 # Mega Projects
 
