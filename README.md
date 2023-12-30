@@ -40,8 +40,6 @@
 2. [RFM Analysis](https://github.com/SharathHebbar/Customer-Analytics/tree/master/RFM_analysis)
 
 
-
-
 # Computer Vision Projects
 
 ## Image Classification
@@ -79,7 +77,7 @@
 
 ## NLP using Stats Models
 
-## NLP using Transformers and Generative AI (Large Language Models)
+## NLP using Transformers / Generative AI / Language Models / Large Language Models
 
 1. [Extractive QnA with BERT](https://github.com/SharathHebbar/Transformers/blob/main/Basics/5_Extractive_QnA_using_BERT.ipynb)
 2. [Instruction following using GPT](https://github.com/SharathHebbar/Transformers/blob/main/Basics/6_Instruction_following_using_GPT.ipynb)
