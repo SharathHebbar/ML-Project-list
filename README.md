@@ -126,6 +126,10 @@
 
 1. [Table-Detection](https://github.com/SharathHebbar/Table-detection-using-Transformers)
 
+### Image Segmentation
+
+### Image Captioning
+
 # MLOps
 
 1. [Kubeflow-pipeline](https://github.com/SharathHebbar/Kubeflow-pipeline-iris)
