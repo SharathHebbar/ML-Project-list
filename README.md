@@ -42,7 +42,22 @@
 
 # Computer Vision Projects
 
-## Image Classification using Deep Learning
+## Deep Learning
+
+### Basics
+
+1. [Torch Basics](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Basics/torch-basics.ipynb)
+2. [oneD Tensors](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Basics/oneDTensors.ipynb)
+3. [Vectors Operations](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Basics/Vectors-operations.ipynb)
+4. [Weight Initialization](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Basics/weight.ipynb)
+5. [Word Embeddings](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Basics/Word%20Embeddings.ipynb)
+6. [Loss Functions](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Basics/Loss%20function.ipynb)
+7. [Visualization](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Basics/Viz.ipynb)
+8. [Temperature in Softmax](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Basics/Temperature%20in%20Softmax.ipynb)
+9. [Neural Network from Scratch](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Basics/NN%20from%20scratch.ipynb)
+10. [Gradient Accumulation](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Basics/gradient_accum.ipynb)
+
+### Image Classification
 
 1. [CNN_Visualization](https://github.com/SharathHebbar/CNN_Visualization)
 2. [Softmax as Intermediate Layer](https://github.com/SharathHebbar/Softmax-as-intermediate-layer-CNN)
@@ -56,21 +71,35 @@
 10. [ResNet](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Computer%20Vision/ResNet.ipynb)
 11. [Transfer Learning](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Computer%20Vision/Transfer%20Learning.ipynb)
 
-## Image Segmentation using Deep Learning
+### Image Segmentation 
 
 1. [Car Semantic Segmentation](https://github.com/SharathHebbar/ML-Project-list/tree/master/computer-vision/segmentation/car-segmentation)
 2. [Demo Semantic Segmentation](https://github.com/SharathHebbar/ML-Project-list/tree/master/computer-vision/segmentation/demo)
 
-## Object Detection using Deep Learning
+### Object Detection 
 
 1. [Face Mask Detection](https://github.com/SharathHebbar/ML-Project-list/tree/master/computer-vision/object-detection/face_mask_detection)
 
-## Image Captioning using Deep Learning
+### Image Captioning
 
-## Generative AI using Deep Learning
+### Generative AI
 
 1. [Neural Style Transfer](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Computer%20Vision/Neural%20Style%20Transfer.ipynb)
 2. [Variational Auto Encoders](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Computer%20Vision/Variational%20Auto%20Encoders.ipynb)
+
+## Transformers
+
+### Image Classification
+
+1. [Image Classification using ViT](https://github.com/SharathHebbar/HuggingFace-handson/tree/main/image-classification-using-transformers)
+
+### Object Detection
+
+1. [Table-Detection](https://github.com/SharathHebbar/Table-detection-using-Transformers)
+
+### Image Segmentation
+
+### Image Captioning
 
 # Natural Language Processing
 
@@ -86,9 +115,7 @@
 
 ## NLP using Stats Models
 
-# Transformers
-
-## Natural Language Processing
+## Transformers
 
 ### Tokenization
 
@@ -125,19 +152,6 @@
 
 1. [AI Generated Text](https://github.com/SharathHebbar/AI-Generated-Text)
 
-## Computer Vision
-
-### Image Classification
-
-1. [Image Classification using ViT](https://github.com/SharathHebbar/HuggingFace-handson/tree/main/image-classification-using-transformers)
-
-### Object Detection
-
-1. [Table-Detection](https://github.com/SharathHebbar/Table-detection-using-Transformers)
-
-### Image Segmentation
-
-### Image Captioning
 
 # MLOps
 
