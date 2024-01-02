@@ -51,6 +51,10 @@
 5. [X-Ray-Detection](https://github.com/SharathHebbar/X-Ray-Detection)
 6. [Pneumonia-detection](https://github.com/SharathHebbar/Pneumonia-detection/tree/master/Pneumonia-detection)
 7. [Image-classification-using-deep-learning](https://github.com/SharathHebbar/Image-classification-using-deep-learning)
+8. [CNN MNIST](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Computer%20Vision/CNN%20MNIST.ipynb)
+9. [CNN Viz](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Computer%20Vision/CNN%20Viz.ipynb)
+10. [ResNet](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Computer%20Vision/ResNet.ipynb)
+11. [Transfer Learning](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Computer%20Vision/Transfer%20Learning.ipynb)
 
 ## Image Segmentation using Deep Learning
 
@@ -65,6 +69,9 @@
 
 ## Generative AI using Deep Learning
 
+1. [Neural Style Transfer](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Computer%20Vision/Neural%20Style%20Transfer.ipynb)
+2. [Variational Auto Encoders](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Computer%20Vision/Variational%20Auto%20Encoders.ipynb)
+
 # Natural Language Processing
 
 ## NLP using Machine Learning Based Models
@@ -72,6 +79,8 @@
 1. [Restaurant-Review-Prediction](https://github.com/SharathHebbar/ML-Project-list/tree/master/kaggle-projects/Restaurant-Reviews)
 
 ## NLP using Deep Learning Based Models
+
+1. [RNN](https://github.com/SharathHebbar/PyTorch-Tutorials/blob/master/Natural%20Language%20Processing/RNNs.ipynb)
 
 ## NLP using SpaCy
 
