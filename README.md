@@ -42,7 +42,7 @@
 
 # Computer Vision Projects
 
-## Image Classification
+## Image Classification using Deep Learning
 
 1. [CNN_Visualization](https://github.com/SharathHebbar/CNN_Visualization)
 2. [Softmax as Intermediate Layer](https://github.com/SharathHebbar/Softmax-as-intermediate-layer-CNN)
@@ -52,18 +52,29 @@
 6. [Pneumonia-detection](https://github.com/SharathHebbar/Pneumonia-detection/tree/master/Pneumonia-detection)
 7. [Image-classification-using-deep-learning](https://github.com/SharathHebbar/Image-classification-using-deep-learning)
 
-## Image Segmentation
+## Image Segmentation using Deep Learning
 
 1. [Car Semantic Segmentation](https://github.com/SharathHebbar/ML-Project-list/tree/master/computer-vision/segmentation/car-segmentation)
 2. [Demo Semantic Segmentation](https://github.com/SharathHebbar/ML-Project-list/tree/master/computer-vision/segmentation/demo)
 
-## Object Detection
+## Object Detection using Deep Learning
 
 1. [Face Mask Detection](https://github.com/SharathHebbar/ML-Project-list/tree/master/computer-vision/object-detection/face_mask_detection)
 
-## Image Captioning
+## Image Captioning using Deep Learning
 
-## Generative AI
+## Generative AI using Deep Learning
+
+## Image Classification using Transformers
+1. [Image Classification using ViT](https://github.com/SharathHebbar/HuggingFace-handson/tree/main/image-classification-using-transformers)
+
+## Image Segmentation using Transformers
+
+## Object Detection using Transformers
+
+## Image Captioning using Transformers
+
+## Generative AI using Transformers
 
 # Natural Language Processing
 
@@ -116,6 +127,7 @@
 # Other Generative AI Models (Closed Sources)
 1. [Gemini](https://github.com/SharathHebbar/Google-Generative-AI-Models/tree/main/Gemini)
 2. [PaLM](https://github.com/SharathHebbar/Google-Generative-AI-Models/tree/main/PaLM)
+3. [AI21 Labs Jurassic Models](https://github.com/SharathHebbar/Generative-AI-Models/tree/main/AI21)
 
 # Concepts
 
