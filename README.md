@@ -222,3 +222,9 @@
 
 ## CSS
 1. [TailwindCSS Tutorial](https://github.com/SharathHebbar/Tailwind-CSS-Tutorial)
+
+
+# Benchmarks/Evaluation
+
+![image](https://github.com/SharathHebbar/ML-Project-list/assets/46246602/16bab20c-d97c-46f2-b2b3-2c0e72c3fc4c)
+
