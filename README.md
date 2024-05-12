@@ -141,12 +141,23 @@
 5. [Open Source LLM using StreamLit](https://github.com/SharathHebbar/HuggingFace-handson/tree/main/Open-llm)
 6. [ChatGPT2](https://github.com/SharathHebbar/HuggingFace-handson/tree/main/chat_gpt2)
 7. [Convo Bot GPT2](https://github.com/SharathHebbar/HuggingFace-handson/tree/main/convo-bot-gpt2)
+8. [MathGPT2](https://github.com/SharathHebbar/mathgpt2) 
 
 ### Encoder-Decoder Models
 
 1. [Product Review using T5](https://github.com/SharathHebbar/Transformers/blob/main/Basics/7.%20T5_for_product_reviews.ipynb)
 2. [Encoder-Decoder Model](https://github.com/SharathHebbar/Transformers/blob/main/Encoder-decoder/text2text-generation.ipynb)
 3. [Chatbot](https://github.com/SharathHebbar/ChatBot-FOSS)
+
+### Reinforcement Learning
+
+1. [SFT_MathGPT2](https://github.com/SharathHebbar/sft_mathgpt2)
+2. [DPO](https://github.com/SharathHebbar/dpo_chatgpt2)
+
+### Quantization PEFT
+1. [Litellama](https://github.com/SharathHebbar/LLM/tree/main/litellama)
+2. [Tinyllama](https://github.com/SharathHebbar/LLM/tree/main/tinyllama)
+3. [Falcon](https://github.com/SharathHebbar/LLM/tree/main/Falcon-finetune-demo)
 
 ### Other
 
@@ -168,6 +179,7 @@
 1. [Gemini](https://github.com/SharathHebbar/Google-Generative-AI-Models/tree/main/Gemini)
 2. [PaLM](https://github.com/SharathHebbar/Google-Generative-AI-Models/tree/main/PaLM)
 3. [AI21 Labs Jurassic Models](https://github.com/SharathHebbar/Generative-AI-Models/tree/main/AI21)
+4. [UI for AI21Labs](https://github.com/SharathHebbar/HuggingFace-handson/tree/main/jurassic-UI)
 
 # Concepts
 
@@ -193,15 +205,26 @@
 3. [The Algorithmic Alchemist](https://github.com/SharathHebbar/The-Algorithmic-Alchemist)
 4. [SkillSync](https://github.com/SharathHebbar/Similarity-Prediction/tree/master/web-app/skillsync)
 
-# Streamlit
+# Frameworks and Libraries
+
+## Streamlit
 1. [StreamLit Tutorials](https://github.com/SharathHebbar/StreamLit-Tutorials)
 
-# Django
+## Gradio
+1. [Gradio Tutorials](https://github.com/SharathHebbar/Gradio_tutorials)
+
+## Django
 1. [PulseSync](https://github.com/SharathHebbar/PulseSync)
 2. [Taskly](https://github.com/SharathHebbar/TODO)
 
-# React
+## React
 1. [Nike](https://github.com/SharathHebbar/Nike-landing-page)
 
-# CSS
+## CSS
 1. [TailwindCSS Tutorial](https://github.com/SharathHebbar/Tailwind-CSS-Tutorial)
+
+
+# Benchmarks/Evaluation
+
+![image](https://github.com/SharathHebbar/ML-Project-list/assets/46246602/16bab20c-d97c-46f2-b2b3-2c0e72c3fc4c)
+
