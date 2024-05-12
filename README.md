@@ -161,13 +161,18 @@
 
 ### Other
 
-1. [AI Generated Text](https://github.com/SharathHebbar/AI-Generated-Text)
+1. [Model Sharding](https://github.com/SharathHebbar/Model-Sharding)
+2. [Coding Templates](https://github.com/SharathHebbar/Coding-Templates)
+3. [Evaluate LLM](https://github.com/SharathHebbar/eval_llms)
+4. [Merge LLMs](https://github.com/SharathHebbar/merge_llms)
+5. [AI Generated Text](https://github.com/SharathHebbar/AI-Generated-Text)
 
 
 # MLOps
 
 1. [Kubeflow-pipeline](https://github.com/SharathHebbar/Kubeflow-pipeline-iris)
 2. [MLFlow-Tutorials](https://github.com/SharathHebbar/ML-Flow-Tutorials)
+3. [Docker](https://github.com/SharathHebbar/Docker-tutorials)
 
 # Time Series and Forecasting
 
@@ -191,7 +196,7 @@
 3. [Transformers](https://github.com/SharathHebbar/Transformers)
 4. [HuggingFace](https://github.com/SharathHebbar/HuggingFace-handson)
 5. [LLM](https://github.com/SharathHebbar/LLM)
-6. [Customer Analytics](https://github.com/SharathHebbar/Customer-Analytics)
+6. [Marketing Analytics](https://github.com/SharathHebbar/Marketing-Analytics)
 7. [Google Generative AI Models](https://github.com/SharathHebbar/Google-Generative-AI-Models)
 
 # Articles/Papers
@@ -208,6 +213,16 @@
 3. [The Algorithmic Alchemist](https://github.com/SharathHebbar/The-Algorithmic-Alchemist)
 4. [SkillSync](https://github.com/SharathHebbar/Similarity-Prediction/tree/master/web-app/skillsync)
 
+
+# IoT
+
+1. [Forest Fire Altering System](https://github.com/SharathHebbar/forest-fire-alerting-system)
+
+# Datasets
+
+1. [HF Datasets](https://github.com/SharathHebbar/HF_Datasets)
+2. [Kaggle Datasets](https://github.com/SharathHebbar/Kaggle_Datasets)
+
 # Frameworks and Libraries
 
 ## Streamlit
@@ -220,12 +235,19 @@
 1. [PulseSync](https://github.com/SharathHebbar/PulseSync)
 2. [Taskly](https://github.com/SharathHebbar/TODO)
 
+## Flask
+1. [X-Ray-Detection](https://github.com/SharathHebbar/X-Ray-Detection)
+
+## Dash
+
+1. [Dash Apps](https://github.com/SharathHebbar/Dash-Apps)
+
 ## React
 1. [Nike](https://github.com/SharathHebbar/Nike-landing-page)
+2. [React MUI Tutorial](https://github.com/SharathHebbar/React-MUI)
 
 ## CSS
 1. [TailwindCSS Tutorial](https://github.com/SharathHebbar/Tailwind-CSS-Tutorial)
-
 
 # Benchmarks/Evaluation
 
