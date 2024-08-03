@@ -166,6 +166,7 @@
 3. [Evaluate LLM](https://github.com/SharathHebbar/eval_llms)
 4. [Merge LLMs](https://github.com/SharathHebbar/merge_llms)
 5. [AI Generated Text](https://github.com/SharathHebbar/AI-Generated-Text)
+6. [LLM_chat-base-instruct-models](https://github.com/SharathHebbar/ML-Project-list/blob/master/natural-language-processing/transformers%20and%20generative%20ai/LLM_chat_base_instruct.ipynb)
 
 
 # MLOps
