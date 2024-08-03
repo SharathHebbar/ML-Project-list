@@ -17,3 +17,4 @@
 15. [Chatbot](https://github.com/SharathHebbar/ChatBot-FOSS)
 16. [Langchain-Tutorial](https://github.com/SharathHebbar/Langchain-tutorial)
 17. [AI Generated Text](https://github.com/SharathHebbar/AI-Generated-Text)
+18. [LLM_chat-base-instruct-models]()
